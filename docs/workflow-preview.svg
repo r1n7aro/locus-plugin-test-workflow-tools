@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="360" viewBox="0 0 760 360" role="img" aria-label="Unity workflow preview">
+  <rect width="760" height="360" fill="#101217"/>
+  <rect x="30" y="28" width="700" height="304" rx="10" fill="#171a21" stroke="#2b303b"/>
+  <rect x="62" y="64" width="636" height="48" rx="7" fill="#101217" stroke="#2b303b"/>
+  <rect x="62" y="136" width="188" height="142" rx="7" fill="#1c2430" stroke="#3a4354"/>
+  <rect x="286" y="136" width="188" height="142" rx="7" fill="#1b2830" stroke="#3a4354"/>
+  <rect x="510" y="136" width="188" height="142" rx="7" fill="#242632" stroke="#3a4354"/>
+  <circle cx="92" cy="88" r="10" fill="#6ea8fe"/>
+  <circle cx="318" cy="178" r="10" fill="#6ee7b7"/>
+  <circle cx="542" cy="178" r="10" fill="#f6c177"/>
+  <text x="116" y="94" fill="#d8dee9" font-family="Segoe UI, Arial" font-size="16" font-weight="600">Editor Maintenance Workflow</text>
+  <text x="88" y="174" fill="#d8dee9" font-family="Segoe UI, Arial" font-size="15" font-weight="600">Prepare</text>
+  <text x="88" y="202" fill="#aab4c4" font-family="Segoe UI, Arial" font-size="13">Save scene</text>
+  <text x="88" y="226" fill="#aab4c4" font-family="Segoe UI, Arial" font-size="13">Scan packages</text>
+  <text x="312" y="174" fill="#d8dee9" font-family="Segoe UI, Arial" font-size="15" font-weight="600">Validate</text>
+  <text x="312" y="202" fill="#aab4c4" font-family="Segoe UI, Arial" font-size="13">Check metadata</text>
+  <text x="312" y="226" fill="#aab4c4" font-family="Segoe UI, Arial" font-size="13">Review issues</text>
+  <text x="536" y="174" fill="#d8dee9" font-family="Segoe UI, Arial" font-size="15" font-weight="600">Apply</text>
+  <text x="536" y="202" fill="#aab4c4" font-family="Segoe UI, Arial" font-size="13">Run helpers</text>
+  <text x="536" y="226" fill="#aab4c4" font-family="Segoe UI, Arial" font-size="13">Record result</text>
+</svg>
