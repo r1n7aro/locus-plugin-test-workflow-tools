@@ -38,6 +38,6 @@ workflow:
 
 ## Registry Fixture Notes
 
-This README is loaded through the registry entry's `descriptionSource` field. It is separate from the plugin download archive, so the Hub can show detailed documentation without putting documentation files inside the registry repository.
+This README is loaded through the registry entry's `descriptionSource` field. The installable plugin package is published as a GitHub release asset. The repository keeps source-level fixture files, README content, and icon assets without committing binary archives. The Hub can show detailed documentation without putting documentation files inside the registry repository.
 
 The same repository also exposes `icon.svg`, which is used by the registry card as an external icon URL.
