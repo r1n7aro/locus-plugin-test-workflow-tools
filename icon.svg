@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="Workflow plugin icon">
+  <rect width="96" height="96" rx="18" fill="#1f2937"/>
+  <path d="M24 30h18v18H24zM54 48h18v18H54z" fill="#9ca3af"/>
+  <path d="M42 39h12c8 0 12 4 12 12" fill="none" stroke="#60a5fa" stroke-width="7" stroke-linecap="round"/>
+</svg>
