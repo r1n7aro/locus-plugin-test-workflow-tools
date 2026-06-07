@@ -1,2 +1,3 @@
-# locus-plugin-test-workflow-tools
-Locus Plugin Hub test download target for workflow tools metadata.
+# Locus Plugin Test Workflow Tools
+
+Test download target for the Locus Plugin Hub registry branch.
