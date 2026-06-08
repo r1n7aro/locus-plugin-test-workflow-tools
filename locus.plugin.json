@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "com.locus.sample.unity-workflow",
+  "id": "unity-workflow-tools",
   "name": "Unity Workflow Tools",
   "version": "0.1.0",
   "compatibility": {
